@@ -1,5 +1,5 @@
 # arduinoTemp
-Code for the arduino uno to display temperature on an OLED in both Fahrenheit and Celsius using a tmp36 temperature sensor. 
+Code for a 7805 processor on an arduino uno to display temperature on an OLED in both Fahrenheit and Celsius using a tmp36 temperature sensor. 
 
 Code originally created for Umass ECE231 lab8.2
 
